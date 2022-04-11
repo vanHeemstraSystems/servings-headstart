@@ -5,7 +5,7 @@ See also toothpaste (usage) calculator at https://www.omnicalculator.com/everyda
 
 A table of how many servings a product serves (e.g., a tube of toothpaste serves 123 servings before it is empty).
 
-| Product | Description | Price per Product | Quantity | Serving Frequency (e.g., daily) | Number of Servings before empty | Cost per serving |
+| A. Product | B. Description | C. Price per Product | D. Quantity | E. Serving Frequency (e.g., daily) | F. Number of Servings before empty | G. Cost per serving (=C/F) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nivea Crème | Face Creme | € ? | 150 ml | Once a day | ? | ? |
 | [Nivea Care & Hold](https://user-images.githubusercontent.com/1499433/162688838-9fd08624-d9e8-41b7-a558-1aa8df944af5.jpg) | Hair Styling Creme | [€ 4.84](https://www.jumbo.com/producten/nivea-styling-creme-gel-care-hold-150ml-161560POT) | 150 ml | Once a day | 484 | € 0.01 |
