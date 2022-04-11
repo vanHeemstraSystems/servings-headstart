@@ -8,6 +8,6 @@ A table of how many servings a product serves (e.g., a tube of toothpaste serves
 | Product | Description | Price per Product | Quantity | Serving Frequency (e.g., daily) | Number of Servings before empty | Cost per serving |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nivea Crème | Face Creme | € ? | 150 ml | Once a day | ? | ? |
-| [Collistar Magic Drops](https://user-images.githubusercontent.com/1499433/162687835-9b0c6114-73c5-4596-94cf-6f1460b36cc5.png) | Self-tanning | €36,56 | 30 ml | Once every three days | ? | ? | 
+| [Collistar Magic Drops](https://user-images.githubusercontent.com/1499433/162688320-03907204-4b13-4371-ab61-130ba871f5bb.jpg) | Self-tanning | €36,56 | 30 ml | Once every three days | ? | ? | 
 
 
