@@ -35,6 +35,8 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Dinnertable and Chairs]() | Dinnertable and Chairs | [€ ??]() | ? | ? | Three times a day | ? | ? |
 | [Curtains or Blinds]() | Curtains or Blinds | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Plates]() | Plates | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Bowls]() | Bowls | [€ ??]() | ? | ? | Three times a day | ? | ? |
 
 ## Office
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
@@ -49,7 +51,7 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Fridge and Freezer]() | Fridge and Freezer | [€ ??]() | ? | ? | Three times a day | ? | ? |
 | [Microwave]() | Microwave | [€ ??]() | ? | ? | Three times a day | ? | ? |
 | [Stove and Oven]() | Stove and Oven | [€ ??]() | ? | ? | Once a day | ? | ? |
-| [Kitchen Utensils]() | Kitchen Utensils | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Kitchen Utensils]() | Kitchen Utensils | [€ ??]() | ? | ? | Three times a day | ? | ? |
 
 
 
