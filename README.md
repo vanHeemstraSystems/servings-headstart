@@ -46,6 +46,11 @@ According to the book "Minimal Life" by Rachel Aust, one only needs these 45 ite
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Food]() | Food | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Fridge and Freezer]() | Fridge and Freezer | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Microwave]() | Microwave | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Stove and Oven]() | Stove and Oven | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Kitchen Utensils]() | Kitchen Utensils | [€ ??]() | ? | ? | Once a day | ? | ? |
+
 
 
 
