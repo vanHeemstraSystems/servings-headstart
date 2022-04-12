@@ -7,7 +7,7 @@ A table of how many servings a product serves (e.g., a tube of toothpaste serves
 
 According to the book "Minimal Life" by Rachel Aust, one only needs these 45 items in your house for living a minimal life:
 
-# Bedroom
+## Bedroom
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Bed]() | Bed | [€ ??]() | ? | ? | Once a night | ? | ? |
@@ -15,7 +15,7 @@ According to the book "Minimal Life" by Rachel Aust, one only needs these 45 ite
 | [Bedpillow]() | Bedpillow | [€ ??]() | ? | ? | Once a night | ? | ? |
 | [Bedtable]() | Bedtable | [€ ??]() | ? | ? | Once a night | ? | ? |
 
-# Bathroom
+## Bathroom
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Nivea Face Creme](https://user-images.githubusercontent.com/1499433/162903328-0fa00868-40f2-4cfd-b1dc-106f13ce6556.png) | Face Creme | [€ 7,27](https://www.jumbo.com/producten/nivea-men-creme-150ml-155734POT) | 150 ml | ? | Once a day | ? | ? |
@@ -24,17 +24,17 @@ According to the book "Minimal Life" by Rachel Aust, one only needs these 45 ite
 | [Jumbo Sensitive Toothpaste](https://user-images.githubusercontent.com/1499433/162689165-84106b9d-4901-47cf-acb0-2c3354701b58.jpg) | Dental Toothpaste | [€ 1.29](https://www.jumbo.com/producten/jumbo-sensitive-care-tandpasta-125ml-161146TUB) | 125 ml | ? | Three times a day | 387 | € 0.0033 |
 | [Mirror]() | Mirror | [€ ??]() | ? | ? | Twice a day | ? | ? |
 
-# Living room
+## Living room
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Sofa]() | Sofa | [€ ??]() | ? | ? | Once a day | ? | ? |
 
-# Dining room
+## Dining room
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Dinnertable and chairs]() | Dinnertable and chairs | [€ ??]() | ? | ? | Three times a day | ? | ? |
 
-# Office
+## Office
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Worktop and chair]() | Worktop and chair | [€ ??]() | ? | ? | Once a day | ? | ? |
