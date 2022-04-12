@@ -5,6 +5,21 @@ See also toothpaste (usage) calculator at https://www.omnicalculator.com/everyda
 
 A table of how many servings a product serves (e.g., a tube of toothpaste serves 387 servings before it is empty).
 
+Rooms here have been named by their purpose (e.g., dinning room). One room can fulfill more than one purpose, hence on does not need a physical, separate room for each purpose. Instead more that one purpose can be fulfilled by one room (e.g., Office and Utilities room).
+
+Room (i.e. purposes) to consider are:
+
+- Bedroom: [Redesign your bedroom](https://discoverdesign.org/challenges/redesign-your-bedroom)
+- Clothingroom:
+- Bathroom: 
+- Living room:
+- Dining room:
+- Office:
+- Kitchen:
+- Washroom:
+- Cleaning room:
+- Utilities room:
+
 According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboeken/andere-non-fictie/rachel-aust-minimal-life-mit-weniger-zu-mehr-dpPK9TU9D7EDT/?awc=8248_1649753312_914000700712c5178ab3e2658136dc06&utm_source=aw&utm_medium=ad&utm_content=deeplink&utm_campaign=webshop-promo)" by Rachel Aust, one only needs these 45 items in your house for living a minimal life:
 
 ## Bedroom
