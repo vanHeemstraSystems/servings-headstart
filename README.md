@@ -37,6 +37,29 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Clothes and Shoes]() | Clothes and Shoes | [€ ??]() | ? | ? | Twice a day | ? | ? |
 | [Clothesracks and Cupboards]() | Clothesracks and Cupboards | [€ ??]() | ? | ? | Twice a day | ? | ? |
 
+### Spring / Summer Clothing
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Simple White T-Shirt]() | Simple White T-Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Simple Black T-Shirt]() | Simple Black T-Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Henley Shirt]() | Henley Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Short-sleeved Button-up Shirt]() | Short-sleeved Button-up Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Button-up Pullover]() | Button-up Pullover | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Roundneck Pullover]() | Roundneck Pullover | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Trousers]() | Trousers | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Shorts]() | Shorts | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Jeans]() | Jeans | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Suit]() | Suit | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Light Jacket]() | Light Jacket | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Windbreaker]() | Windbreaker | [€ ??]() | ? | ? | Once a day | ? | ? |
+
+More ...
+
+### Autumn / Winter Clothing
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Clothes and Shoes]() | Clothes and Shoes | [€ ??]() | ? | ? | Once a day | ? | ? |
+
 ## Bathroom
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
