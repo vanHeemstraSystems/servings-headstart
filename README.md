@@ -16,6 +16,12 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Bedtable]() | Bedtable | [€ ??]() | ? | ? | Once a night | ? | ? |
 | [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
 
+## Clothingroom
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Clothes and Shoes]() | Clothes and Shoes | [€ ??]() | ? | ? | Twice a day | ? | ? |
+| [Clothesracks and Cupboards]() | Clothesracks and Cupboards | [€ ??]() | ? | ? | Twice a day | ? | ? |
+
 ## Bathroom
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,6 +31,10 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Jumbo Sensitive Toothpaste](https://user-images.githubusercontent.com/1499433/162689165-84106b9d-4901-47cf-acb0-2c3354701b58.jpg) | Dental Toothpaste | [€ 1.29](https://www.jumbo.com/producten/jumbo-sensitive-care-tandpasta-125ml-161146TUB) | 125 ml | ? | Three times a day | 387 | € 0.0033 |
 | [Mirror]() | Mirror | [€ ??]() | ? | ? | Twice a day | ? | ? |
 | [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Bathtowels]() | Bathtowels | [€ ??]() | ? | ? | Twice a day | ? | ? |
+| [Bathmat]() | Bathmat | [€ ??]() | ? | ? | Twice a day | ? | ? |
+| [Toiletries]() | Toiletries | [€ ??]() | ? | ? | Twice a day | ? | ? |
+| [Showercurtain]() | Showercurtain | [€ ??]() | ? | ? | Twice a day | ? | ? |
 
 ## Living room
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
@@ -73,5 +83,22 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Washingmachine]() | Washingmachine | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Dryer or Dryingrack]() | Dryer or Dryingrack | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Iron and Ironboard or Steam Straightener]() | Iron and Ironboard or Steam Straightener | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Washingpegs]() | Washingpegs | [€ ??]() | ? | ? | Once a day | ? | ? |
 
+## Cleaning room
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Cleaning Stuff]() | Cleaning Stuff | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Hoover]() | Hoover | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Broom and Dustpan]() | Broom and Dustpan | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Mop or Steam Cleaner]() | Mop or Steam Cleaner | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Cleaning Clothes]() | Cleaning Clothes | [€ ??]() | ? | ? | Once a day | ? | ? |
 
+## Utilities room
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Extension Cables]() | Extension Cables | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Lightbulbs]() | Lightbulbs | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Toolcupboards]() | Toolcupboards | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Travel Rucksack]() | Travel Rucksack | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [First Aid Box]() | First Aid Box | [€ ??]() | ? | ? | Once a day | ? | ? |
