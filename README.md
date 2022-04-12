@@ -28,15 +28,24 @@ According to the book "Minimal Life" by Rachel Aust, one only needs these 45 ite
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Sofa]() | Sofa | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Curtains or Blinds]() | Curtains or Blinds | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Dining room
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Dinnertable and chairs]() | Dinnertable and chairs | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Dinnertable and Chairs]() | Dinnertable and Chairs | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Curtains or Blinds]() | Curtains or Blinds | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Office
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Worktop and chair]() | Worktop and chair | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Worktop and Chair]() | Worktop and Chair | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Curtains or Blinds]() | Curtains or Blinds | [€ ??]() | ? | ? | Once a day | ? | ? |
+
+## Kitchen
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Food]() | Food | [€ ??]() | ? | ? | Once a day | ? | ? |
+
 
 
