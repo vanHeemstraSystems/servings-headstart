@@ -7,7 +7,7 @@ A table of how many servings a product serves (e.g., a tube of toothpaste serves
 
 Rooms here have been named by their purpose (e.g., dinning room). One room can fulfill more than one purpose, hence on does not need a physical, separate room for each purpose. Instead more that one purpose can be fulfilled by one room (e.g., Office and Utilities room).
 
-Room (i.e. purposes) to consider are:
+Rooms (i.e. purposes) to consider are:
 
 - Bedroom: [Redesign your bedroom](https://discoverdesign.org/challenges/redesign-your-bedroom)
 - Clothingroom:
