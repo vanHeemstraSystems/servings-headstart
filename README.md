@@ -14,6 +14,7 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Bedlinen]() | Bedlinen | [€ ??]() | ? | ? | Once a night | ? | ? |
 | [Bedpillow]() | Bedpillow | [€ ??]() | ? | ? | Once a night | ? | ? |
 | [Bedtable]() | Bedtable | [€ ??]() | ? | ? | Once a night | ? | ? |
+| [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Bathroom
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
@@ -23,12 +24,14 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Collistar Face Magic Drops](https://user-images.githubusercontent.com/1499433/162688320-03907204-4b13-4371-ab61-130ba871f5bb.jpg) | Self-tanning | [€ 36,56](https://www.douglas.nl/nl/p/3000059213?variant=237604) | 30 ml | ? | Once every three days | ? | ? | 
 | [Jumbo Sensitive Toothpaste](https://user-images.githubusercontent.com/1499433/162689165-84106b9d-4901-47cf-acb0-2c3354701b58.jpg) | Dental Toothpaste | [€ 1.29](https://www.jumbo.com/producten/jumbo-sensitive-care-tandpasta-125ml-161146TUB) | 125 ml | ? | Three times a day | 387 | € 0.0033 |
 | [Mirror]() | Mirror | [€ ??]() | ? | ? | Twice a day | ? | ? |
+| [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Living room
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Sofa]() | Sofa | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Curtains or Blinds]() | Curtains or Blinds | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Dining room
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
@@ -37,12 +40,16 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Curtains or Blinds]() | Curtains or Blinds | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Plates]() | Plates | [€ ??]() | ? | ? | Three times a day | ? | ? |
 | [Bowls]() | Bowls | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Cutlery]() | Cutlery | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Glasses]() | Glasses | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Office
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Worktop and Chair]() | Worktop and Chair | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Curtains or Blinds]() | Curtains or Blinds | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Kitchen
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
@@ -52,7 +59,19 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Microwave]() | Microwave | [€ ??]() | ? | ? | Three times a day | ? | ? |
 | [Stove and Oven]() | Stove and Oven | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Kitchen Utensils]() | Kitchen Utensils | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Kitchen Towls]() | Kitchen Towls | [€ ??]() | ? | ? | Three times a day | ? | ? |
+| [Lights]() | Lights | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Wastebin]() | Wastebin | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Wastebags]() | Wastebags | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Recyclebin]() | Recyclebin | [€ ??]() | ? | ? | Once a day | ? | ? |
 
-
+## Washroom
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Washingpowder]() | Washingpowder | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Washbag]() | Washbag | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Washingmachine]() | Washingmachine | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Dryer or Dryingrack]() | Dryer or Dryingrack | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Iron and Ironboard or Steam Straightener]() | Iron and Ironboard or Steam Straightener | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 
