@@ -3,7 +3,7 @@ servings-headstart
 
 See also toothpaste (usage) calculator at https://www.omnicalculator.com/everyday-life/toothpaste
 
-A table of how many servings a product serves (e.g., a tube of toothpaste serves 123 servings before it is empty).
+A table of how many servings a product serves (e.g., a tube of toothpaste serves 387 servings before it is empty).
 
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
