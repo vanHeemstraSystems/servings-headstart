@@ -52,13 +52,46 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Suit]() | Suit | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Light Jacket]() | Light Jacket | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Windbreaker]() | Windbreaker | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Leisure Shoes]() | Leisure Shoes | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Sneakers]() | Sneakers | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Dress Shoes]() | Dress Shoes | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Slippers]() | Slippers | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Hat]() | Hat | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Bathrobe]() | Bathrobe | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Swimming Shorts]() | Swimming Shorts | [€ ??]() | ? | ? | Once a day | ? | ? |
 
-More ...
+### Spring / Summer Accessoiries
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Sunglasses]() | Sunglasses | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ### Autumn / Winter Clothing
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Clothes and Shoes]() | Clothes and Shoes | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Simple Shirt]() | Simple Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Long-sleeved Shirt]() | Long-sleeved Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Colored or Patterned Dress Shirt]() | Colored or Patterned Dress Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Neutral Buttoned Shirt]() | Neutral Buttoned Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Hoodie]() | Hoodie | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Pullover]() | Pullover | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Blazer]() | Blazer | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Suit]() | Suit | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Trousers]() | Trousers | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Loose Trousers]() | Loose Trousers | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Tracksuit Bottoms]() | Tracksuit Bottoms | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Leather Jacket]() | Leather Jacket | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Overcoat]() | Overcoat | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Sneakers]() | Sneakers | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Dress Shoes]() | Dress Shoes | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Slippers]() | Slippers | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Hat]() | Hat | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Gloves]() | Gloves | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Shawl]() | Shawl | [€ ??]() | ? | ? | Once a day | ? | ? |
+
+### Autumn / Winter Accessoiries
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [???]() | ??? | [€ ??]() | ? | ? | Once a day | ? | ? |
 
 ## Bathroom
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
