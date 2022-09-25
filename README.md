@@ -42,7 +42,7 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 ### Spring / Summer Clothing
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Simple White T-Shirt]() | Simple White T-Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
+| [Simple White T-Shirt]() | Simple White T-Shirt | [€ 12]() | ? | ? | Once a day | ? | ? |
 | [Simple Black T-Shirt]() | Simple Black T-Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Henley Shirt]() | Henley Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Short-sleeved Button-up Shirt]() | Short-sleeved Button-up Shirt | [€ ??]() | ? | ? | Once a day | ? | ? |
