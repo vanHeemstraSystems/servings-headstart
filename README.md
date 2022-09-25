@@ -22,6 +22,8 @@ Rooms (i.e. purposes) to consider are:
 
 According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboeken/andere-non-fictie/rachel-aust-minimal-life-mit-weniger-zu-mehr-dpPK9TU9D7EDT/?awc=8248_1649753312_914000700712c5178ab3e2658136dc06&utm_source=aw&utm_medium=ad&utm_content=deeplink&utm_campaign=webshop-promo)" by Rachel Aust, one only needs these 45 items in your house for living a minimal life:
 
+*NOTE*: Below table is in a dynamic format (i.e. with active formulas) maintained at [JotForm - Servings Table](https://eu.jotform.com/tables/222676966652066)
+
 ## Bedroom
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
