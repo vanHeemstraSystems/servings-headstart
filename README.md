@@ -196,6 +196,6 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 ## Water
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Shower]() | Shower | [€ 5,85 per 45 liters]() | 45 liters | 45 liters per 5-minute shower | Once a day | 1 | € 5.85 per 5-minute shower|
+| [Shower]() | Shower | [€ 0,0585 per 45 liters]() | 45 liters | 45 liters per 5-minute shower | Once a day | 1 | € 0,0585 per 5-minute shower|
 
-*NOTE*: A 1-minute shower will consume approximately 9 liters of water at a cost of € 1,17 per minute according to https://www.bespaarinfo.nl/kosten-douchebeurt/
+*NOTE*: A 1-minute shower will consume approximately 9 liters of water at a cost of € 0,0117 per minute according to https://www.bespaarinfo.nl/kosten-douchebeurt/
