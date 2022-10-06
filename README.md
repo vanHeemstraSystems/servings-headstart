@@ -176,3 +176,13 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Toolcupboards]() | Toolcupboards | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [Travel Rucksack]() | Travel Rucksack | [€ ??]() | ? | ? | Once a day | ? | ? |
 | [First Aid Box]() | First Aid Box | [€ ??]() | ? | ? | Once a day | ? | ? |
+
+## Electricity
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Fridge and Freezer]() | Fridge and Freezer | [€ ?? per 24 hours]() | 0.768 kWh per 24 hours | 0.032 kWh per hour | 24 hours a day | 24 | € ?? per 24 hours/24 = ? |
+
+## Gas
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Shower]() | Shower | [€ ??]() | ? | ?? m3 | Once a day | ? | ? |
