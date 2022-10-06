@@ -189,9 +189,9 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 ## Gas
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Shower]() | Shower | [€ 3,966975 per m3]() | ? | ?? m3 | Once a day | ? | € ?? per shower|
+| [Shower]() | Shower | [€ 0,701559 per 0.17685 m3 (=€ 3,966975 per m3 * 0.17685 m3 per 5-minute shower)]() | ? | 0.17685 m3 per 5-minute shower | Once a day | 1 | € 0,701559 per 5-minute shower|
 
-*NOTE*: Vattenfall energy supplier: € 4.760,37 for gas per year (365 days) including 9% VAT based on 1200 m3 consumption per year as [published on 6 October 2022](https://www.gaslicht.com/energievergelijken/resultaten). Hence, € 4.760,37 / 365 = € 13,0421 per hour. Hence, € 4.760,37 / 1200 m3 per year = € 3.966975 per m3.
+*NOTE*: Vattenfall energy supplier: € 4.760,37 for gas per year (365 days) including 9% VAT based on 1200 m3 consumption per year as [published on 6 October 2022](https://www.gaslicht.com/energievergelijken/resultaten). Hence, € 4.760,37 / 365 = € 13,0421 per hour. Hence, € 4.760,37 / 1200 m3 per year = € 3.966975 per m3. A 1-minute shower will consume approximately 9 liters of water, and to heat 9 liters of water with gas requires approximately 0.03537 m3 (= (3,93 m3/1000 liter) * 9 liter) of gas according to https://www.bespaarinfo.nl/kosten-douchebeurt/
 
 ## Water
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
