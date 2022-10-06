@@ -192,3 +192,10 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | [Shower]() | Shower | [€ 3,966975 per m3]() | ? | ?? m3 | Once a day | ? | € ?? per shower|
 
 *NOTE*: Vattenfall energy supplier: € 4.760,37 for gas per year (365 days) including 9% VAT based on 1200 m3 consumption per year as [published on 6 October 2022](https://www.gaslicht.com/energievergelijken/resultaten). Hence, € 4.760,37 / 365 = € 13,0421 per hour. Hence, € 4.760,37 / 1200 m3 per year = € 3.966975 per m3.
+
+## Water
+| A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Shower]() | Shower | [€ 5,85 per 45 liters]() | 45 liters | 45 liters per 5-minute shower | Once a day | 1 | € 5.85 per 5-minute shower|
+
+*NOTE*: A 1-minute shower will consume approximately 9 liters of water at a cost of € 1,17 per minute according to https://www.bespaarinfo.nl/kosten-douchebeurt/
