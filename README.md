@@ -182,11 +182,11 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Fridge and Freezer]() | Fridge and Freezer | [€ 0.640896 per kwH]() | 0.768 kWh per 24 hours | 0.032 kWh per hour | 24 hours a day | 24 | € 0,4922 per 24 hours |
 
-*NOTE*: Vattenfall energy supplier: € 1.730,42 for electricity per year (365 days) including 9% VAT based on 2700 kWh/year consumption per year as published on 6 October 2022. Hence, € 1730,42 / 365 = € 4,7409 per hour. Hence, € 1730,42 / 2700 kWh per year = € 0.640896 per kwH.
+*NOTE*: Vattenfall energy supplier: € 1.730,42 for electricity per year (365 days) including 9% VAT based on 2700 kWh/year consumption per year as [published on 6 October 2022](https://www.gaslicht.com/energievergelijken/resultaten). Hence, € 1730,42 / 365 = € 4,7409 per hour. Hence, € 1730,42 / 2700 kWh per year = € 0.640896 per kwH.
 
 ## Gas
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Shower]() | Shower | [€ 3,966975 per m3]() | ? | ?? m3 | Once a day | ? | € ?? per shower|
 
-*NOTE*: Vattenfall energy supplier: € 4.760,37 for gas per year (365 days) including 9% VAT based on 1200 m3 consumption per year as published on 6 October 2022. Hence, € 4.760,37 / 365 = € 13,0421 per hour. Hence, € 4.760,37 / 1200 m3 per year = € 3.966975 per m3.
+*NOTE*: Vattenfall energy supplier: € 4.760,37 for gas per year (365 days) including 9% VAT based on 1200 m3 consumption per year as [published on 6 October 2022](https://www.gaslicht.com/energievergelijken/resultaten). Hence, € 4.760,37 / 365 = € 13,0421 per hour. Hence, € 4.760,37 / 1200 m3 per year = € 3.966975 per m3.
