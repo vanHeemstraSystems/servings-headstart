@@ -180,7 +180,7 @@ According to the book "[Minimal Life](https://www.dodax.nl/nl-nl/boeken-audioboe
 ## Electricity
 | A. Product | B. Description | C. Price per Product | D. Quantity in Total | E. Quantity per Serving | F. Serving Frequency (e.g., daily) | G. Number of Servings before Empty | H. Cost per Serving (=C/G) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Fridge and Freezer]() | Fridge and Freezer | [€ 0,640896 per kwH]() | 0.768 kWh per 24 hours | 0.032 kWh per hour | 24 hours a day | 24 | € 0,4922 per 24 hours |
+| [Fridge and Freezer]() | Fridge and Freezer | [€ 0,640896 per kwH]() | 0.768 kWh per 24 hours | 0.032 kWh per hour | 24 hours a day | 0.768 kWh per 24 hours | € 0,4922 per 24 hours |
 
 *NOTE*: Vattenfall energy supplier: € 1.730,42 for electricity per year (365 days) including 9% VAT based on 2700 kWh consumption per year as [published on 6 October 2022](https://www.gaslicht.com/energievergelijken/resultaten). Hence, € 1730,42 / 365 = € 4,7409 per hour. Hence, € 1730,42 / 2700 kWh per year = € 0.640896 per kwH.
 
